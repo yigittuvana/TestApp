@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10741014284",
+    "firebase_url": "https://flutterders-748bf.firebaseio.com",
+    "project_id": "flutterders-748bf",
+    "storage_bucket": "flutterders-748bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10741014284:android:b246155e8d7e86e33db329",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10741014284-h7o6hv87vqpnsku51i2jc2872jsvc9vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7kLmDg6rOq5OcBMDUEmC_CU77HFIkbEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10741014284-h7o6hv87vqpnsku51i2jc2872jsvc9vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
